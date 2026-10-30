@@ -1,0 +1,14 @@
+name = "tracemint-ai-analyst"
+main = "src/index.ts"
+compatibility_date = "2025-10-01"
+
+[ai]
+binding = "AI"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tracemint"
+database_id = "00000000-0000-0000-0000-000000000000" # placeholder for local dev; replace with real id after wrangler d1 create
+
+[vars]
+DEMO_MODE = "1"
