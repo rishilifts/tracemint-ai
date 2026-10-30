@@ -10,6 +10,14 @@ Built for the **Meta AI Developer Hackathon** (Cerebral Valley). New work,
 built from scratch during the official build window (Oct 27 - Nov 4, 2026).
 
 
+## Demo video
+
+Approved 3-minute demo (built during the hackathon window):
+
+- Release page: https://github.com/rishilifts/tracemint-ai/releases/tag/demo-video
+- Direct download: https://github.com/rishilifts/tracemint-ai/releases/download/demo-video/tracemint-ai-demo-3min.mp4
+
+
 ## How it works
 
 1. **Ingest** - `POST /ingest` accepts one event at a time:
