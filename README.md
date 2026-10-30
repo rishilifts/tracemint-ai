@@ -1,6 +1,6 @@
 # TraceMint AI Analyst
 
-https://github.com/user-attachments/assets/c0afdbe5-e38d-40a7-8149-646571d18a9c
+https://github.com/user-attachments/assets/509c437d-454c-4aab-a3d2-677875534a0a
 
 Grounded weekly revenue answers from raw payment events: a deterministic TypeScript engine computes the numbers, and Meta's Muse Spark (`muse-spark-1.2`) via the Meta Model API words the weekly digest. Every figure the model writes is checked against the computed summary before the digest is shown; a failing digest is withheld.
 
