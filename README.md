@@ -9,8 +9,6 @@ writes is checked against the computed summary before it is shown.
 Built for the **Meta AI Developer Hackathon** (Cerebral Valley). New work,
 built from scratch during the official build window (Oct 27 - Nov 4, 2026).
 
-Development note: designed and built by Rishi Sahoo with AI pair-programming
-assistance; every figure path is covered by the test suite (`npm test`).
 
 ## How it works
 
